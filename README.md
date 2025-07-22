@@ -30,9 +30,10 @@ This app is built with **Streamlit** and powered by **scikit-learn's Random Fore
 Prediction of Nationwide Encounter Count for FY25 without adding any variables directly related to current immigration enforcement and policies. 
 
 
-The Nationwide Encounters data includes U.S. Border Patrol Title 8 apprehensions, Office of Field Operations Title 8 inadmissibles, and all Tilt 42 expulsions for fiscal years 2020 to date. Data is available from the Northern Land Border and Nationwide (i.e., air, land, and sea modes of transportation) encounters.
+The Nationwide Encounters data includes U.S. Border Patrol Title 8 apprehensions, Office of Field Operations Title 8 inadmissibles, and all Title 42 expulsions for fiscal years 2020 to date. Data is available from the Northern Land Border and Nationwide (i.e., air, land, and sea modes of transportation) encounters.
 Data is extracted from live CBP systems and data sources. Statistical information is subject to change due to corrections, system changes, changes in data definition, additional information, or encounters pending final review. Final statistics are available after each fiscal year.
-(https://www.cbp.gov/newsroom/stats/cbp-public-data-portal)
-(https://www.cbp.gov/document/stats/nationwide-encounters)
-(https://www.cbp.gov/sites/default/files/assets/documents/2023-Sep/nationwide-encounters-data-dictionary.pdf)
+
+**(https://www.cbp.gov/newsroom/stats/cbp-public-data-portal)**
+**(https://www.cbp.gov/document/stats/nationwide-encounters)**
+**(https://www.cbp.gov/sites/default/files/assets/documents/2023-Sep/nationwide-encounters-data-dictionary.pdf)**
 
